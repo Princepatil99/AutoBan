@@ -13,4 +13,4 @@ A member added by owner or admin will not be banned.
 
 
 ## Support
-  [GROUP](https://t.me/BotDevlopers)
+  [GROUP](https://t.me/STUDY_FLOWER)
